@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/20IM30006Project_IS/static/css/main.e30e275e.css",
+    "main.js": "/20IM30006Project_IS/static/js/main.87df47d2.js",
+    "static/media/Village1.jpg": "/20IM30006Project_IS/static/media/Village1.dd0d7f786f610700652b.jpg",
+    "static/media/Img2.jpg": "/20IM30006Project_IS/static/media/Img2.576632c9fd45404d3a72.jpg",
+    "static/media/Ljungle.jpg": "/20IM30006Project_IS/static/media/Ljungle.023deafdb09bdb14accc.jpg",
+    "static/media/Veg1.jpg": "/20IM30006Project_IS/static/media/Veg1.49c208150d365912768d.jpg",
+    "static/media/Veg4.jpg": "/20IM30006Project_IS/static/media/Veg4.96948c09207cef501a6d.jpg",
+    "static/media/FM_Logo.png": "/20IM30006Project_IS/static/media/FM_Logo.9adcce348a1f3a504a39.png",
+    "static/media/farmer.png": "/20IM30006Project_IS/static/media/farmer.57b8ba5867f2181d3fc1.png",
+    "static/media/Veg5.jpg": "/20IM30006Project_IS/static/media/Veg5.663f5b358341a04d5ded.jpg",
+    "index.html": "/20IM30006Project_IS/index.html",
+    "main.e30e275e.css.map": "/20IM30006Project_IS/static/css/main.e30e275e.css.map",
+    "main.87df47d2.js.map": "/20IM30006Project_IS/static/js/main.87df47d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e30e275e.css",
+    "static/js/main.87df47d2.js"
+  ]
+}
